@@ -1,6 +1,6 @@
 {
   "name": "react-native-rtl-toggle",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "React native toggle for android and ios, RTL support",
   "main": "src/index.js",
   "files": [

@@ -7,6 +7,8 @@ Simple switch toggle component for react-native. This component supports horizon
 <img src="https://firebasestorage.googleapis.com/v0/b/bookoo-89f6c.appspot.com/o/switch-toggle.gif?alt=media&token=a9dc36e0-3c25-45dc-bbb7-8b095a716dc8"/>
 
 ## Changelogs
+- **[1.0.7]**
+  + Fix git repository.
 - **[1.0.6]**
   + Support rtl use I18nManager.
 - **[1.0.5]**
@@ -24,7 +26,7 @@ Simple switch toggle component for react-native. This component supports horizon
 https://www.npmjs.com/package/react-native-rtl-toggle
 
 ## Git repo
-https://github.com/dooboolab/react-native-rtl-toggle
+https://github.com/abbasmoosavi/react-native-rtl-toggle
 
 ## Props
 |    | necessary | types | default
