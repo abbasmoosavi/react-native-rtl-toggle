@@ -1,0 +1,62 @@
+{
+  "name": "react-native-rtl-toggle",
+  "version": "1.0.6",
+  "description": "React native toggle for android and ios, RTL support",
+  "main": "src/index.js",
+  "files": [
+    "src/"
+  ],
+  "scripts": {
+    "test": "npm test",
+    "lint": "eslint -c .eslintrc.js '.'"
+  },
+  "keywords": [
+    "react-native-rtl-toggle",
+    "react-native-component",
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "coverflow",
+    "rtl",
+    "switch",
+    "toggle",
+    "swtich-toggle"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbasmoosavi/react-native-rtl-toggle.git"
+  },
+  "author": "Abbas moosavi <moosaviabbas74@yahoo.com> (https://github.com/abbasmoosavi/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abbasmoosavi/react-native-rtl-toggle.git/issues"
+  },
+  "homepage": "https://github.com/abbasmoosavi/react-native-rtl-toggle.git#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.0.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.1.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "prop-types": "^15.7.2"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "jest": {
+    "preset": "react-native",
+    "setupFiles": [
+      "<rootDir>/__setup__/enzyme.js"
+    ],
+    "modulePathIgnorePatterns": [
+      "<rootDir>/example/node_modules"
+    ]
+  },
+  "dependencies": {
+    "dooboolab-welcome": "^1.1.0"
+  }
+}
